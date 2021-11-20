@@ -1,2 +1,2 @@
 # Owethu_Sotomela
-[Resume](https://owethusotomela.github.io/owethu_sotomela/)
+[Resume](https://owethusotomela.github.io/Resume/)
