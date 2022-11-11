@@ -477,7 +477,7 @@ input[type="submit"]:focus {
 /* --- End Social Links --- */
 
 .header-buttons {
-  margin-top: 50px;
+  margin-top: 10px;
 }
 
 .header-buttons .btn-primary {
@@ -1373,7 +1373,7 @@ textarea.form-control, textarea.form-control:focus {
   list-style: none;
 }
 
-.knowledges li {;
+.knowledges li {
   display: inline-block;
   background-color: #04b4e0;
   border-radius: 3px;
