@@ -1,2 +1,2 @@
 # Owethu Sotomela Website/Profile
-[Resume](https://owethusotomela.github.io/Resume/)
+[Resume](https://owethusotomela.github.io/Portfolio/)
